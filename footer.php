@@ -17,6 +17,7 @@
             <a href="contact.php">Contact us</a>
         </div>
         <div class="footer-section">
+            
             <h3>My Account</h3>
             <?php if (isset($_SESSION['user_id'])): ?>
                 <a href="logout.php">Logout</a>
