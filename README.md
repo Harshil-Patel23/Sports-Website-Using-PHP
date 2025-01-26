@@ -81,6 +81,34 @@ The database consists of the following tables:
 - **Payments:** Tracks payment information, including payment ID, order ID, paymnet method, payment status, transaction ID, amount, payment date, card last 4 digit, and card expiry.
 - **order-items:** Store orderd items info such as order ID, order item ID, product ID, quantity, price
 - **contact requests:** store information like name, email, message and request ID
+
+## Screenshots
+
+### Homepage
+
+![Homepage](images/homepage.png)
+
+### Login Page
+
+![Login Page](images/loginpage.png)
+
+### Products Listing
+
+![Products](images/productspage.png)
+
+### Cart Page
+
+![Cart Page](images/cartpage.png)
+
+### Checkout Page
+
+![Checkout](images/checkoutpage.png)
+
+### Confirmation Page
+
+![Confirmation](images/confirmationpage.png)
+
+
 ## Installation
 
 ### Prerequisites
